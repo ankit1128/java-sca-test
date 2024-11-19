@@ -13,7 +13,7 @@
 	</parent>
 	<groupId>com.cdk.data.api</groupId>
 	<artifactId>modern-auth</artifactId>
-	<version>${revision}</version>
+	<version>1.1</version>
 	<name>modern-auth</name>
 	<description>AuthN and AuthZ for modern APIs</description>
 	<properties>
